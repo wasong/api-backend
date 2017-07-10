@@ -3,18 +3,14 @@ Building from scratch an api backend boilerplate for future projects.
 
 ## To start:
 
-`npm install`
+`npm install` or `yarn`
 
-`npm run start:dev`
+`npm run start` or `yarn start`
 
 ## Features
-#### Authentication
-- jwt
-- passport
-
+- GraphQL
 #### ES6
 - babel
 
 ### TODO
-- eslint
 - testing
